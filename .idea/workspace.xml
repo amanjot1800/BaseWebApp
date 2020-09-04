@@ -2,6 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="55908f6c-7d4d-4fce-af1c-139cded96a4a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/project/images/motta.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/images/motta1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/images/motta2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/images/motta3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/project/html/pages/index.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/project/html/pages/index.ejs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/project/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/project/js/main.js" afterDir="false" />
     </list>
@@ -25,7 +30,7 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/project/start.js" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -33,6 +38,23 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RunManager" selected="Node.js.Base Web App">
+    <configuration name="index.ejs" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/BaseWebApp/project/html/pages/index.ejs" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="Base Web App" type="NodeJSConfigurationType" path-to-js-file="project/start.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="JavaScript Debug.index.ejs" />
+      <item itemvalue="Node.js.Base Web App" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.index.ejs" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -43,7 +65,7 @@
       <option name="presentableId" value="Default" />
       <updated>1599247507988</updated>
       <workItem from="1599247511916" duration="3075000" />
-      <workItem from="1599250844152" duration="516000" />
+      <workItem from="1599250844152" duration="1671000" />
     </task>
     <task id="LOCAL-00001" summary="Made some first changes">
       <created>1599250108439</created>
@@ -59,7 +81,14 @@
       <option name="project" value="LOCAL" />
       <updated>1599251229619</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Timing check">
+      <created>1599251385373</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1599251385373</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -71,16 +100,41 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Made some first changes" />
     <MESSAGE value="Checking live results" />
-    <option name="LAST_COMMIT_MESSAGE" value="Checking live results" />
+    <MESSAGE value="Timing check" />
+    <option name="LAST_COMMIT_MESSAGE" value="Timing check" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="393" y="0" key="CommitChangelistDialog2" timestamp="1599251227405">
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1599251767354">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="393" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1599251227405" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1599251234061">
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1599251767354" />
+    <state x="393" y="0" key="CommitChangelistDialog2" timestamp="1599251383264">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1599251234061" />
+    <state x="393" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1599251383264" />
+    <state x="548" y="167" key="FileChooserDialogImpl" timestamp="1599251763194">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="548" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1599251763194" />
+    <state width="1515" height="160" key="GridCell.Tab.0.bottom" timestamp="1599251904767">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="160" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1599251904767" />
+    <state width="1515" height="160" key="GridCell.Tab.0.center" timestamp="1599251904767">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="160" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1599251904767" />
+    <state width="1515" height="160" key="GridCell.Tab.0.left" timestamp="1599251904767">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="160" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1599251904767" />
+    <state width="1515" height="160" key="GridCell.Tab.0.right" timestamp="1599251904767">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="160" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1599251904767" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1599251394424">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1599251394424" />
   </component>
 </project>
