@@ -4,7 +4,7 @@ function showPicture(){
 
   $("#image").append('<img class="rounded-circle" src="images/high-five.gif"/>');
   $("p").html("High five! You're building your first web app!");
-  $("#new").html("This is really great")
+  $("#new").html("This is really great that i just have to make changes in editor and everything is live.")
 
 
   // jQuery can do a lot of crazy stuff, so make sure to Google around to find out more
