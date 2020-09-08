@@ -14,7 +14,7 @@ h1 {
 }
 
 p {
-  margin-top: 80px;
+  margin-top: 20px;
 }
 
 button {
@@ -22,13 +22,57 @@ button {
 }
 
 .page-header {
-  background-color: #00bda5;
+  background-color: #ff3c3c;
   padding-top: 40px;
   padding-bottom: 80px;
   color: #ffffff;
+  margin-top: 0px;
 }
 
 #image img {
   height: 200px;
   margin-top: 60px;
+}
+
+#icon {
+  height: 100px;
+  width: 100px;
+}
+
+td, th {
+  padding: 70px;
+  align-content: center;
+  align-items: center;
+}
+
+table {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#about {
+  text-align: start;
+  align-content: start;
+  margin-left: 60px;
+  margin-right: 60px;
+}
+
+#smallhead {
+  font-weight: bold;
+}
+
+a:hover {
+  text-decoration: underline;
+  color: blue;
+}
+
+.nav-link {
+  text-decoration-color: black;
+  color: black;
+}
+
+.nav-bar {
+  padding-top: 15px;
+  background-color: #ffdcdc;
+  padding-bottom: 10px;
 }

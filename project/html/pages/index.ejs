@@ -6,27 +6,26 @@
 <body>
   <!-- the classes 'page-header' and 'btn btn-dark' create bootstrap components.  -->
   <!-- Check out more components here: http://getbootstrap.com/components/ -->
-  <div class="page-header">
 
-  
-    <h1>Hello, my name is motta and I love cooking</h1>
+  <div class="nav-bar">
+    <% include ../helpers/navbar.ejs %>
   </div>
 
-  <img src="images/motta.jpg">
-  
-  <p>Click on the button for my contacts.</p>
+  <div class="page-header">
+
+    <h1>Hello, Welcome to my first Web App</h1>
+
+  </div>
+
+  <p>Click on the button for a surprise.</p>
+
+  <div id="image">
+
+  </div>
 
   <button onClick="showPicture()" class="btn btn-dark">Click me</button>
 
-  <p id="new"></p>
 
-  <p id="new2"></p>
-
-  <div id="image1"></div>
-  <div id="image2"></div>
-  <div id="image3"></div>
-
-  
 </body>
 
 </html>
